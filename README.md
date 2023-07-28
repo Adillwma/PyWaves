@@ -1,5 +1,5 @@
 # PyWaves Visualizer
-Teaching resource to allow experimenting with simple sine waves in an oscilloscope like enivronment
+Teaching resource to allow experimenting with simple sine waves in an oscilloscope like environment
 
 ![PyWaves Visualizer](Images/Example4.gif)
 
