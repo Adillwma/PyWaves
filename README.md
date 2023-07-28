@@ -22,14 +22,14 @@ PyWaves Visualizer is a Python script that allows users to visualize sine waves 
 
 ![PyWaves Visualizer](Images/Example2.gif)
 
-3. Difference Wave (Optional):
-   If the reference wave is captured, users can choose to show the difference between the live wave and the reference wave by clicking the "Show Sum" button. The difference wave is calculated as follows:
-   `Sum(t) = LiveWave(t) - ReferenceWave(t)`
-    The sum wave is displayed in green behind the animation.
+3. Sum Wave (Optional):
+   If the reference wave is captured, users can choose to show the sum between the live wave and the reference wave by clicking the "Show Sum" button. The sum wave is simply calculated as follows:
+   `Sum(t) = LiveWave(t) + ReferenceWave(t)`
+   and is displayed in green behind the animation.
 
 
 ![PyWaves Visualizer](Images/Example3.gif)
-By adjusting the frequncy and or amplitude of the wave students can visulise the effect on the sum wave and investigate phase phenomena such as beating.
+By adjusting the frequncy and or amplitude of the wave, users can visulise the effect on the sum wave and investigate phase phenomena such as beating.
 
 ![PyWaves Visualizer](Images/Example4.gif)
 
