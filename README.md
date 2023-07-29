@@ -3,6 +3,11 @@ Teaching resource to allow experimenting with simple sine waves in an oscillosco
 
 ![PyWaves Visualizer](Images/Example4.gif)
 
+
+
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
