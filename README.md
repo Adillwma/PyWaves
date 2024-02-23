@@ -1,21 +1,31 @@
-# PyWaves Visualizer
-Teaching resource to allow experimenting with simple sine waves in an oscilloscope like environment
+<div align="center">
 
-![PyWaves Visualizer](Images/Example4.gif)
+# PyWaves
+### Author: Adill Al-Ashgar
+#### Experiment with simple sine waves in an virtualised oscilloscope like environment
 
+<img src="Images/Example4.gif" width="800"> 
 
+    - Live virtualised oscilloscope environment
+    - Visulise the effect of changing frequency and amplitude
+    - Create complex waveforms by summing simple sine waves
+    - Visulise the effect of phase coherence on the sum wave
 
+[![Github Repo](https://img.shields.io/badge/GitHub_Repo-PyWaves-yellow.svg)](https://github.com/Adillwma/PyWaves)
 [![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+[![Published](https://img.shields.io/badge/Published-2023-purple.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+</div>
+
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [User Settings](#user-settings)
-4. [Scientific Explanation](#scientific-explanation)
-5. [Known Issues and Future Improvements](#known-issues-and-future-improvements)
-6. [Contact](#contact)
-7. [License](#license)
+- [Introduction](#introduction)
+- [Installation](#installation)
+-  [User Settings](#user-settings)
+- [Scientific Explanation](#scientific-explanation)
+- [Known Issues and Future Improvements](#known-issues-and-future-improvements)
+- [Contact](#contact)
+- [License](#license)
 
 ## 1. Introduction <a name="introduction"></a>
 PyWaves Visualizer is a Python script that allows users to visualize sine waves with different frequencies and amplitudes. The script provides a graphical interface where users can adjust various parameters and see the live animation of the sine wave. The animation can be played, paused, and saved as a GIF.
